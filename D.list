@@ -1,0 +1,18 @@
+#直连
+#      DOMAIN-SUFFIX,   #模版
+
+DOMAIN-KEYWORD,zxzj
+DOMAIN-KEYWORD,ddys
+DOMAIN-KEYWORD,hassbian
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,v1.mk
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,lolalytics.com
+
+#      IP-CIDR,         #模版
+
+
+#
+
