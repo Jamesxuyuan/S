@@ -8,8 +8,9 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,v1.mk
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,lolalytics.com
+DOMAIN-SUFFIX,tuyacn.com
 
 #      IP-CIDR,         #模版
 
