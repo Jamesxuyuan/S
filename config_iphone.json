@@ -64,7 +64,7 @@
     { "rule_set": "geosite-youtube", "outbound": "🚀 节点选择" },
     { "rule_set": "geosite-onedrive", "outbound": "🐬 OneDrive" }, 
     { "rule_set": "geosite-microsoft", "outbound": "🪟 Microsoft" }, 
-    { "rule_set": ["geoip-google", "geosite-google"], "outbound": "🚀 节点选择 },
+    { "rule_set": ["geoip-google", "geosite-google"], "outbound": "🚀 节点选择" },
     { "rule_set": "geosite-tiktok", "outbound": "🚀 节点选择" },
     { "rule_set": ["geoip-apple", "geosite-apple"], "outbound": "🍏 Apple" },
     { "rule_set": ["geoip-telegram", "geosite-telegram"], "outbound": "🚀 节点选择" },
